@@ -1,0 +1,7 @@
+venv
+.idea
+__pychace__/
+__pycache__
+YouTube-Video-Downloader-WithBoto3-Integration/__pychace__/
+media
+.env

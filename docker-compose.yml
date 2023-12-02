@@ -1,0 +1,10 @@
+version: '3'
+services:
+    media_file_uploader_api:
+        container_name: YouTube-Video-Downloader-WithBoto3-Integration
+        restart: always
+        build: .
+        ports:
+            - "8020:8020"
+        volumes:
+            - ./:/YouTube-Video-Downloader-WithBoto3-Integration

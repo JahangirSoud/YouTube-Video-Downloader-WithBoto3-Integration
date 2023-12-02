@@ -1,0 +1,7 @@
+.git
+.cache
+.gitignore
+venv
+*.md
+__pycache__
+shell_files
